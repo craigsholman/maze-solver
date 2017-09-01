@@ -13,6 +13,8 @@ Each of the rows in the text file should be of the same length.
 
 The symbols used in the file are '#' for walls, '.' for open cells, 'A' for the start cell, and 'B' for a goal cell.
 
+If the program finds a solution to a maze, the '@' symbol will be used to mark the cells on a path from 'A' to 'B'.
+
 The full file pathname to be solved is specified on the command line. It is recommended to wrap the filepathname with double quotes.
 
 If the program is to be run from Visual Studio, write the file pathname in the Command Line Arguments field of the Debug page of the project's Properties.
