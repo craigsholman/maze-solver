@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeSolverTester", "MazeSolverTester\MazeSolverTester.csproj", "{03B13094-C0BA-4711-8CC0-E43CAB41FC2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMazeClient", "SolveMazeClient\SolveMazeClient.csproj", "{DD9E52EA-9FBE-4F05-89C3-2AAC3025F814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeSolver", "MazeSolver\MazeSolver.csproj", "{56B29674-278B-4EFF-AA66-503A6D4964D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolveMazeWebService", "SolveMazeWebService\SolveMazeWebService.csproj", "{ADE116F6-FD56-4202-8BE3-F10788729258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03B13094-C0BA-4711-8CC0-E43CAB41FC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03B13094-C0BA-4711-8CC0-E43CAB41FC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03B13094-C0BA-4711-8CC0-E43CAB41FC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03B13094-C0BA-4711-8CC0-E43CAB41FC2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD9E52EA-9FBE-4F05-89C3-2AAC3025F814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD9E52EA-9FBE-4F05-89C3-2AAC3025F814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD9E52EA-9FBE-4F05-89C3-2AAC3025F814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD9E52EA-9FBE-4F05-89C3-2AAC3025F814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B29674-278B-4EFF-AA66-503A6D4964D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B29674-278B-4EFF-AA66-503A6D4964D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B29674-278B-4EFF-AA66-503A6D4964D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B29674-278B-4EFF-AA66-503A6D4964D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADE116F6-FD56-4202-8BE3-F10788729258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE116F6-FD56-4202-8BE3-F10788729258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE116F6-FD56-4202-8BE3-F10788729258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE116F6-FD56-4202-8BE3-F10788729258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
